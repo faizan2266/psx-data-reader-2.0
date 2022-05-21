@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as file:
     long_description = file.read()
 
 setup(
-    name="psx-data-reader",                      # This is the name of the package
-    version="0.0.6",                             # The initial release version
+    name="psx-data-reader-2.0",                      # This is the name of the package
+    version="0.0.6.2.0",                             # The initial release version
     license='MIT',                               # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     description="Pakistan Stock Exchange's Data Downloader",
     long_description=long_description,
